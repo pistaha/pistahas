@@ -7,7 +7,7 @@
 Я открыл репозиторий `demo-repo` в программе **GitHub Desktop**.  
 Активная ветка — `main`.
 
-![[aaa89e3e-7dc4-4eb7-aa26-2f70d2028822.png]]
+![1](images/1.png)
 
 ---
 
